@@ -17,7 +17,8 @@ int main(){
     varibu2->tambahAnak(varanak3);
     varibu2->tambahAnak(varanak1);
 
-   
+    varibu1->cetakAnak(); 
+    varibu2->cetakAnak();
 
     
 
